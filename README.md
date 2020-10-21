@@ -25,6 +25,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zentan66&repo=element-next)](https://github.com/zentan66/element-next) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zentan66&repo=element-next)](https://github.com/zentan66/element-next)
 
+![my xxx](https://github4life.herokuapp.com/zentan66.gif)
+
 </details>
 
 **🙏 事业顺利**
@@ -66,7 +68,7 @@ Here are some ideas to get you started:
   <a href="https://gitee.com"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href=""><img src="" alt="csdn"></a>
 </p>
-[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/zentan66.gif)](https://github4life.herokuapp.com/zentan66)
+
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
 - 😆**数据库** MySQL
