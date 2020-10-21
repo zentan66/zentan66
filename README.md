@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning Vue and React
 - ⚡ Fun fact: I don't konw
 
+<!--
 <img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
+<img align='right' src="https://profile-counter.glitch.me/zentan66/count.svg" alt="访客数量"/>
+-->
 
 ### 📊 本周编码时长
 
@@ -16,8 +19,6 @@
 <!--END_SECTION:waka-->
 
 ### Github仓库信息
-
-<img align='right' src="https://profile-counter.glitch.me/zentan66/count.svg" alt="访客数量"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zentan66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zentan66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
